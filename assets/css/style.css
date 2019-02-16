@@ -40,9 +40,6 @@ body {
     position: relative;
     bottom: 100px;
 }
-
-
-
 .contentheader {
     font-family: Georgia, 'Times New Roman', Times, serif;
     font-style: normal;
@@ -134,61 +131,18 @@ form {
     background-color: #4aaaa5;
     border-color: #777777;
 }
-
-
-
-
-
-
-
-
-#boxname, #boxemail, #boxmessage {
-    width: 100%;
-    color: #777777;
-    border-color: lightgray;
-    padding: 4px;
-    margin-top: 4px;
-    resize: none;
-}
-#boxname:focus, #boxemail:focus, #boxmessage:focus {
-    border-color: #555555;
-}
-#boxmessage {
-    height: 150px;
-    overflow: auto;
-}
-input[type=submit] {
-    color: #ffffff;
-    background-color: #4aaaa5;
-    font-size: 20px;
-    padding: 14px;
-    width: 120px;
-}
 .pflist {
-    margin-left: 30px;
-}
-.pfbox {
-    display: inline-block;
-
+    margin-left: 15px;
+    margin-top: 30px;
 }
 .pfitem {
-    position: relative;
     font-family: Arial, Helvetica, sans-serif;
     padding: 15px;
-    width: 200px;
-    margin-right: 100px;
-    margin-bottom: 10px;
+    width: 230px;
     background-color: #4aaaa5;
     color: #ffffff;
     text-align: center;
     font-size: 20px;
-    margin-top: 100px;
-    z-index: 1;
-}
-.pfimage {
-    height: 180px;
-    width: 230px;
     position: relative;
-    bottom: 150px;
-    z-index: 0;
+    bottom: 90px;
 }
