@@ -140,9 +140,12 @@ form {
     padding: 15px;
     width: 230px;
     background-color: #4aaaa5;
-    color: #ffffff;
     text-align: center;
     font-size: 20px;
     position: relative;
     bottom: 90px;
+}
+#pf1, #pf2, #pf3, #pf4, #pf5 {
+    color: #ffffff;
+    text-decoration: none;
 }
